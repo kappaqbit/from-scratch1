@@ -13,3 +13,4 @@ wheels/
 playground/
 *.gz
 *.pkl
+.ruff_cache
